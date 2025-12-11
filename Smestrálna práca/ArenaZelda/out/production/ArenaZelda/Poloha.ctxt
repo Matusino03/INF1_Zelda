@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Poloha
+comment0.text=\r\n\ Trieda\ reprezentujuca\ polohu\ objektu\ v\ 2D\ priestore\r\n\ s\ urcenym\ uhlom\ nato\u010Denia\r\n
+comment1.params=x\ y\ uhol
+comment1.target=Poloha(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Gettery\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getUhol()
+comment5.params=krok\ smer
+comment5.target=Poloha\ getPosunutuPolohu(int,\ Smer)
+comment5.text=\r\n\ Metoda\ na\ posunutie\ polohy\ o\ dany\ krok\ v\ danom\ smere\r\n
+numComments=6
